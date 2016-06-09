@@ -5,4 +5,3 @@ password varchar(16) not null,
 gender int not null,
 primary key(userId)
 );
-//123

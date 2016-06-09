@@ -10,7 +10,7 @@
 		<value>com.mysql.jdbc.Driver</value>
     </property>  
     <property name="jdbcUrl">  
-    	<value>jdbc:mysql://127.0.0.1/p2p</value>  
+    	<value>jdbc:mysql://127.0.0.1/demo</value>  
     </property>  
     <property name="user">  
     	<value>root</value>
